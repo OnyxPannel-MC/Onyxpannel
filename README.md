@@ -85,8 +85,7 @@ Check out the **[Changelog](CHANGELOG.md)** for the latest updates and improveme
 
 We love hearing from you! Join our community for support, suggestions, and updates.
 
-- **Join the Discord**: [Click here to join!](https://discord.gg/fU2tFPf)  
-- **Report Issues**: [Create an issue on GitHub](https://github.com/onyx-mc/Onyxpannel/issues)
+- **Join the Discord**: [Click here to join!](https://discord.gg/fU2tFPt)  
 
 ---
 
