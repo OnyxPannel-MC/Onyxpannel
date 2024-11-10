@@ -1,7 +1,7 @@
 # 🔮 **Onyxpannel by Onyx**  
 **Onyxpannel** is a feature-packed **client-side-only Forge mod** for **Minecraft 1.8.9**, created by [Onyx](https://namemc.com/profile/Onyx). It focuses on enhancing your **Hypixel SkyBlock** experience, while offering useful utilities for all Minecraft players. ✨
 
-![Onyx's Collection](https://github.com/onyx-mc/Onyxpannel/blob/master/onyxpannel.png?raw=true)
+![Onyx's Collection](https://github.com/OnyxPannel-MC/Onyxpannel/blob/master/onyxpannel.png?raw=true)
 
 ---
 
